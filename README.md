@@ -1,30 +1,27 @@
 
 # BrainStorm-Files
 
-Welkom bij de BrainStorm-Files map! Deze map is bedoeld voor het verzamelen en organiseren van ideeën, concepten en plannen voor toekomstige projecten. Hier vind je verschillende bestanden en documenten die de basis vormen voor onze creatieve en innovatieve processen.
+Welkom bij de BrainStorm-Files map! Deze map is bedoeld voor het verzamelen en organiseren van ideeën, concepten en plannen voor toekomstige projecten. Hier vind je verschillende bestanden en documenten die de basis vormen voor  creatieve en innovatieve processen.
 
-## Inhoud
+Inhoud
 
 - [Introductie](#introductie)
 - [Structuur](#structuur)
 - [Gebruik](#gebruik)
-- [Bijdragen](#bijdragen)
-- [Contact](#contact)
 
-## Introductie
+Introductie
 
-De BrainStorm-Files map is een centrale plek waar we onze gedachten, ideeën en plannen documenteren. Of het nu gaat om nieuwe projectideeën, conceptuitwerkingen of strategische plannen, deze map dient als een bron van inspiratie en een startpunt voor verdere ontwikkeling.
+De BrainStorm-Files map is een centrale plek waar onze gedachten, ideeën en plannen documenteren. Of het nu gaat om nieuwe projectideeën, conceptuitwerkingen of strategische plannen, deze map dient als een bron van inspiratie en een startpunt voor verdere ontwikkeling.
 
-## Structuur
+Structuur
 
 De map is georganiseerd in verschillende submappen en bestanden om de inhoud gestructureerd en gemakkelijk toegankelijk te maken:
 
-- **Ideeën/**
+- Ideeën/
     - Bevat ruwe ideeën en concepten voor toekomstige projecten.
-- **Concepten/**
+- Concepten/
     - Uitgebreidere uitwerkingen van geselecteerde ideeën, inclusief schetsen en mockups.
-- **Strategie/**
+- Strategie/
     - Documenten met strategische plannen en roadmaps voor de ontwikkeling en implementatie van projecten.
-- **Onderzoek/**
+- Onderzoek/
     - Rapporten en artikelen die relevant onderzoek en inzichten bevatten ter ondersteuning van onze ideeën en concepten.
-    - 
